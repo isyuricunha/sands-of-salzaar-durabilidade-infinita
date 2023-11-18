@@ -1,0 +1,11 @@
+{
+  "type": "plugin",
+  "name": "[PT-BR] Durabilidade Infinita",
+  "desc": "Se a durabilidade é infinita, seus itens não quebram.",
+  "tags": "Rules",
+  "start_scene": "",
+  "include_main_game": "1",
+  "homepage_background": "",
+  "audioControllerAdditional": "",
+  "build_version": "1.0.32"
+}
