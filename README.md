@@ -15,7 +15,7 @@ Vamos lá!
 ## Instruções de Instalação
 
 1. **Download do Arquivo do mod:**
-   - Acesse o link de download do mod: [Baixar](https://github.com/isyuricunha/sands-of-salzaar-pergaminho-de-teleporte/releases/) ou vá para a seção "Releases" no GitHub.
+   - Acesse o link de download do mod: [Baixar](https://github.com/isyuricunha/sands-of-salzaar-durabilidade-infinita/releases) ou vá para a seção "Releases" no GitHub.
    - Certifique-se de não baixar o arquivo com o nome "source-code.zip".
 
 2. **Extração do Arquivo:**
@@ -41,9 +41,9 @@ Vamos lá!
 - Se o jogo foi baixado como um arquivo zip, coloque-o no diretório raiz do sistema (por exemplo, C: ou D:).
 - Em seguida, instale o mod, pois o SoS (Sands of Salzaar) requer permissões de gravação na pasta do jogo para os arquivos do mod.
 
-- Outro método é baixar o arquivo chamado "76561198122671177.sands-of-salzaar-pergaminho-de-teleporte.0.1.zip" nas releases ([Link para as Releases](https://github.com/isyuricunha/sands-of-salzaar-pergaminho-de-teleporte/releases/)).
+- Outro método é baixar o arquivo chamado "76561198122671177.sands-of-salzaar-durabilidade-infinita.0.1.zip" nas releases ([Link para as Releases](https://github.com/isyuricunha/sands-of-salzaar-durabilidade-infinita/releases)).
 - Vá para a pasta raiz do jogo, encontre a pasta "DeployedMods.HS" e coloque o arquivo extraído (76561198122671177.sands-of-salzaar-pergaminho-de-teleporte.0.1.zip) dentro dela.
-- Certifique-se de que o mod não está em várias subpastas, o caminho correto é "Jogo/DeployedMods.HS/76561198122671177.sands-of-salzaar-pergaminho-de-teleporte.0.1".
+- Certifique-se de que o mod não está em várias subpastas, o caminho correto é "Jogo/DeployedMods.HS/76561198122671177.sands-of-salzaar-durabilidade-infinita.0.1".
 
 **Atenção:**
 - Siga atentamente este tutorial, pois não estou disponível para fornecer assistência contínua. A falta de conformidade pode resultar em atrasos ou falta de resposta da minha parte.
