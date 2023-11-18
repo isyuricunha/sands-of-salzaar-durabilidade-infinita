@@ -1,4 +1,4 @@
-# Sands of Salzaar - [PT-BR] Pergaminho de Teleporte
+# Sands of Salzaar - [PT-BR] Durabilidade Infinita
 
 ## Introdução
 
